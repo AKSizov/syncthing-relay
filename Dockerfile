@@ -41,7 +41,7 @@ ARG REQUIREMENTS="openssl ca-certificates"
 ########################################
 ARG BUILDPLATFORM
 ARG TARGETPLATFORM
-ARG VERSION="v1.15.0"
+ARG VERSION="v1.22.1"
 ARG DOWNLOAD_URL_PREFIX="https://github.com/syncthing/relaysrv/releases/download"
 ARG BIN_NAME="strelaysrv"
 ARG BUILD_DATE="2021-12-17T13:41:35Z"

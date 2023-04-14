@@ -1,4 +1,6 @@
-# syncthing-relaysrv
+# THIS IS A FORK OF [dcarbone/syncthing-relay](https://github.com/dcarbone/syncthing-relay)  WHICH IS A FORK OF [t4skforce/syncthing-relay](https://github.com/t4skforce/syncthing-relay)
+It seems neither are updated currently for ARM, so I've forked again.
+# Original Description:
 Docker Container for the global relay server for the [http://syncthing.net/](http://syncthing.net/) project. I created this container because there is no official one. This build is listening on the gihub project of the relay server and gets updated whenever there is a code change. [relaysrv GitHub repo](https://github.com/syncthing/relaysrv). The container is intended for people who like to roll their own private syncthing "cloud".
 
 The files for this container can be found at my [GitHub repo](https://github.com/t4skforce/syncthing-relay)
